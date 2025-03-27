@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-
+//TRIGGER
 // This can stay for local dev reference or fallback
 // const webhookUrl = "https://davidajm.app.n8n.cloud/webhook/whatsapp-lead";
 
